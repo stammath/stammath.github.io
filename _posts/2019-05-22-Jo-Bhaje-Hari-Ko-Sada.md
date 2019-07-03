@@ -37,15 +37,15 @@ excerpt_separator: <!--more-->
 
 द्रिड भरोसा मन मे करके, जो जपे हरि नाम को,
 
-कहता है ब्रह्मानंद, बीच समाएगा |
+कहता है ब्रह्मानंद, बीच समाएगा |\
 
 
-### Audio File
+### Audio File\
 
-## mp3 version of bhajan
+
 
 [Google Drive Link][Google Drive Link]
 
-[Google Drive Link]: https://drive.google.com/open?id=1Ny0VQ5e5w_VZnl-FFge1MV54EAwkXvVR
+[Google Drive Link]: https://drive.google.com/open?id=1Ny0VQ5e5w_VZnl-FFge1MV54EAwkXvVR\
 
 --- Thanks and Regards.
