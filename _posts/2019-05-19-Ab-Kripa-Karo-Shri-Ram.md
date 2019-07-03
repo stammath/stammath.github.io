@@ -11,9 +11,7 @@ excerpt_separator: <!--more-->
 Today I am sharing a beautiful *bhajan* sung by none other than Pandit Rajan and Sajan Misra Ji Maharaj. It has been a source of positivity 
 and happiness for me. Listening this amazing divine like rendition by Pandit ji gives immense peace to my heart and mind.
 
-## mp3 version of *bhajan*
 
-[https://drive.google.com/open?id=1Movvw9wX8odXRLX73Jl_Sw9gY2WKeYR3!](Google Drive Link)
 
 ## Lyrics
 
@@ -52,4 +50,8 @@ and happiness for me. Listening this amazing divine like rendition by Pandit ji 
 अब कृपा करो श्री राम नाथ दुख टारो ॥
 
 
+## mp3 version of *bhajan*
 
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/open?id=1Movvw9wX8odXRLX73Jl_Sw9gY2WKeYR3
