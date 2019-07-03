@@ -6,7 +6,7 @@ tags: [music, cello]
 image: wilson-auditorium.jpg
 type: video
 ---
-Here's a video of high school Louis playing Haydn's C-major concerto with Bozeman High School's orchestra.
+Here's a gaanu of of high school Louis playing Haydn's C-major concerto with Bozeman High School's orchestra.
 
 <div class="iframe-wrapper">
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flrassaby%2Fvideos%2Fvb.774134618%2F10150317338364619%2F%3Ftype%3D2%26video_source%3Duser_video_tab&width=500&show_text=false&height=280&appId" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
