@@ -2,15 +2,28 @@
     <div class="wrapper">
         <div class="header-flex">
             
-            
-                
-               <div class="center-header-container">
-                <div class="logo">
-                    <img src="{{site.baseurl}}/assets/img/{% if site.author_photo %}{{site.author_photo}}{% endif %}" alt="{{site.author}}"  width="315" height="227">
-                    <a href="{{site.projects_url}}"> {{ site.projects_title }} </a>
-                </div>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+
+
+<img src="{{site.baseurl}}/assets/img/{% if site.author_photo %}{{site.author_photo}}{% endif %}" alt="{{site.author}}"  width="315" height="227">
+ <a href="{{site.projects_url}}"> {{ site.projects_title }} </a>
+               
                 {% include social-links.html %}
-            </div> 
+</body>
+                
+               
+                   
+             
            
            
         </div>
