@@ -3,18 +3,14 @@
         <div class="header-flex">
             
             
-                <p style="text-align:center;"><img src="{{site.baseurl}}/assets/img/{% if site.author_photo %}{{site.author_photo}}{% endif %}" alt="{{site.author}}"  width="315" height="227">
- <br> <a href="{{site.projects_url}}"> {{ site.projects_title }} </a>
-
-		 {% include social-links.html %}</p>
-               
-				
-    
-		
-		<div class="center-header-container">
-			
-		</div>
                 
+               <div class="center-header-container">
+                <div class="logo">
+                    <img src="{{site.baseurl}}/assets/img/{% if site.author_photo %}{{site.author_photo}}{% endif %}" alt="{{site.author}}"  width="315" height="227">
+                    <a href="{{site.projects_url}}"> {{ site.projects_title }} </a>
+                </div>
+                {% include social-links.html %}
+            </div> 
            
            
         </div>
