@@ -5,7 +5,7 @@ date: 2019-05-19 00:00:00 -0000
 image: Rajan-Sajan-Misra.png
 
 tags: [Music]
-excerpt_separator: 
+excerpt_separator: <!--more-->
 ---
 
 Today I am sharing a beautiful *bhajan* sung by none other than Pandit Rajan and Sajan Misra Ji Maharaj. It has been a source of positivity <!--more-->
