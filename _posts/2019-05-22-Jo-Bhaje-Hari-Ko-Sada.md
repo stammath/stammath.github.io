@@ -40,4 +40,12 @@ excerpt_separator: <!--more-->
 कहता है ब्रह्मानंद, बीच समाएगा |
 
 
+### Audio File
+
+## mp3 version of bhajan
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/open?id=1Ny0VQ5e5w_VZnl-FFge1MV54EAwkXvVR
+
 --- Thanks and Regards.
