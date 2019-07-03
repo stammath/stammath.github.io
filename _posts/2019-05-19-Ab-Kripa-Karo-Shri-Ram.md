@@ -5,10 +5,10 @@ date: 2019-05-19 00:00:00 -0000
 image: Rajan-Sajan-Misra.png
 
 tags: [Music]
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
-Today I am sharing a beautiful *bhajan* sung by none other than Pandit Rajan and Sajan Misra Ji Maharaj. It has been a source of positivity 
+Today I am sharing a beautiful *bhajan* sung by none other than Pandit Rajan and Sajan Misra Ji Maharaj. It has been a source of positivity <!--more-->
 and happiness for me. Listening this amazing divine like rendition by Pandit ji gives immense peace to my heart and mind.
 
 
@@ -50,7 +50,7 @@ and happiness for me. Listening this amazing divine like rendition by Pandit ji 
 अब कृपा करो श्री राम नाथ दुख टारो ॥
 
 
-## mp3 version of *bhajan*
+## mp3 version of bhajan
 
 [Google Drive Link][Google Drive Link]
 
