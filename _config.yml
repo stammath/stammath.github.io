@@ -1,11 +1,9 @@
 # Site settings
-title: Louis Rassaby
+title: My Meditations
 description: |
-  Louis Rassaby is a NYC-based software engineer and entrepreneur currently at Google.
-  He's the founder of Wirefreight, a customer service platform for freight. Previously, Louis led the new products engineering team
-  at Phosphorus Genomics.
+  Meditations of a mathematician
 
-url: http://rassaby.com
+url: stammath.github.io
 
 about_title: About
 projects_title: Home
@@ -33,8 +31,8 @@ relevant_tags: ['projects', 'music', 'tech-blog']
 resume_url: https://docs.google.com/document/d/1dJIboSF-ktdaP28DDu-gcuOW1SCCnkSdqtodJGwYkaA/export?format=pdf
 music_resume_url: https://docs.google.com/document/d/17F3g8jx2UHby77P7shJlsKAW2Efasuc1HuQ3Ro3v3zI/export?format=pdf
 
-author: Louis Rassaby
-author_title: Software Engineer
+author: My Meditations
+author_title: Meditations of a Mathematician
 author_photo: profile-photo.jpg
 user_description_short: |
   I'm a Brooklyn-based software engineer and entrepreneur currently at Google.
