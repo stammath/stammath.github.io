@@ -5,7 +5,7 @@
 
 <hr>
 <p>layout: post<br>
-title: Uma_Maheshwar_Stotra<br>
+title: Uma_Maaheshwar_Stotra<br>
 date: 2019-06-15 00:00:00 -0000</p>
 <p>tags: [Articles]<br>
 excerpt_separator: <!--more--></p>
