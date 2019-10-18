@@ -15,6 +15,7 @@ excerpt_separator: <!--more-->
 <p>This stotram was composed by Adi Shankaracharya ji.</p>
 <hr>
 <!--more-->
+
 <h2 id="lyrics-with-meaning">Lyrics with meaning</h2>
 <p>आदौ कर्मप्रसंगात्कलयति कलुषं मातृकुक्षौ स्थितं मां,<br>
 विण्मूत्रामेध्यमध्ये कथयति नितरां जाठरो जातवेदाः ।</p>
