@@ -4,7 +4,7 @@ title: शिव अपराध क्षमापन स्तोत्र/Shi
 date: 2019-10-01 00:00:00 -0000
 
 image: shiv-apradh-kshamapan-stotra.jpg
-tags: [Articles]
+tags: [Music]
 excerpt_separator: <!--more-->
 
 
@@ -19,6 +19,7 @@ excerpt_separator: <!--more-->
 विण्मूत्रामेध्यमध्ये कथयति नितरां जाठरो जातवेदाः ।</p>
 <p>यद्यद्वै तत्र दुःखं व्यथयति नितरां शक्यते केन वक्तुं,<br>
 क्षंतव्यो मे‌உपराधः शिव शिव शिव भो श्री महादेव शंभो ॥१॥</p>
+<!--more-->
 <p><em>Due to the my previous birth karmas, I was born inside my mother’s womb,<br>
 And placed between urine, excreta and heat, everything was sere unhappiness<br>
 And burnt  <a href="http://www.hindupedia.com/en/A" title="A">a</a>  lot by the heat of the digestive fire.<br>
