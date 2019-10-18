@@ -114,7 +114,4 @@ And so my god Parameshwara, Forever protect this devotee of thine., 13</em></p>
 <a href="https://drive.google.com/file/d/1tLDPeVizE6J_GvLEatVN8CJnkxapbgb5/view?usp=sharing">192kbps</a><br>
 <a href="https://drive.google.com/file/d/1bCWag0KzgSqlEperl-y71X57ncNCGA_1/view?usp=sharing">320kbps</a></p>
 <h6 id="source-httpwww.hindupedia.comenshiva_aparadha_kshamapana_stotram-httpspanditlalittrivedi.com201907shiv-apradh-kshamapan-stotra-shiva.html">source: <a href="http://www.hindupedia.com/en/Shiva_Aparadha_Kshamapana_Stotram">http://www.hindupedia.com/en/Shiva_Aparadha_Kshamapana_Stotram</a>, <a href="https://panditlalittrivedi.com/2019/07/shiv-apradh-kshamapan-stotra-shiva.html">https://panditlalittrivedi.com/2019/07/shiv-apradh-kshamapan-stotra-shiva.html</a></h6>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 
