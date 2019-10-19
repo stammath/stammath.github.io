@@ -4,7 +4,7 @@ title: शिव अपराध क्षमापन स्तोत्र/Shi
 date: 2019-10-01 00:00:00 -0000
 
 image: shiv-apradh-kshamapan-stotra.jpg
-tags: [Music]
+tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 
 
