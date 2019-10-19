@@ -4,7 +4,7 @@ title: अब कृपा करो श्री राम नाथ दुख 
 date: 2019-05-19 00:00:00 -0000
 image: Rajan-Sajan-Misra.png
 
-tags: [Music]
+tags: [Music-Other]
 excerpt_separator: <!--more-->
 ---
 
