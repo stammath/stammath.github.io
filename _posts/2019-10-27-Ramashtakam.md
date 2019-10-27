@@ -4,7 +4,7 @@ layout: post
 title: Shri Ramashtakam 
 date: 2019-10-27 00:00:00 -0000
 
-image: Ayodhya.jpg
+image:
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 
