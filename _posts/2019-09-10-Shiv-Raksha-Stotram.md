@@ -1,6 +1,6 @@
 ---
 layout: post
-title: श्री रामाष्टकम् /Shiv Raksha Stotram
+title: शिवरक्षास्तोत्रम्  /Shiv Raksha Stotram
 date: 2019-10-29 00:00:00 -0000
 
 image: adiyogi.jpg
