@@ -2,7 +2,7 @@
 layout: post
 title: श्री कृष्णाष्टकम्-Shri Krishnashtakam
 date: 2019-11-23 00:00:00 -0000
-image: SK1.jpeg
+image: SK7.jpeg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
