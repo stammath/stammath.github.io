@@ -8,7 +8,6 @@ excerpt_separator: <!--more-->
 ---
 
 
-## श्री कृष्णमधुराष्टकम-Shree Krishna Madhurashtakam 
 
 Rendition by Pandit Jasraj 
 
