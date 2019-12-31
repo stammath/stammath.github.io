@@ -2,7 +2,7 @@
 layout: post
 title: श्री कृष्णमधुराष्टकम-Shree Krishna Madhurashtakam 
 date: 2019-09-12 00:00:00 -0000
-image: Sk10.jpg
+image: SK10.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
