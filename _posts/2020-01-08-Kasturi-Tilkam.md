@@ -82,8 +82,11 @@ excerpt_separator: <!--more-->
 
 Meaning:
 1: Salutations to Gopala Who is adorned with the Sacred Marks of Kasturi (Musk) on His Forehead and Kaustubha Jewel on His Chest,
+
 2: His Nose is decorated with a Shining Pearl, the Palms of His Hands are gently holding a Flute, the Hands themselves are beautifully decorated with Bracelets,
+
 3: His Whole Body is Smeared with Sandal Paste, as if Playfully anointed, and His Neck is decorated with a Necklace of Pearls,
+
 4: Surrounded by the Cowherd Woman, Gopala is Shining in their middle in Celebration like a Jewel on the Head.
 
 
@@ -92,3 +95,7 @@ Meaning:
 [Google Drive Link][Google Drive Link]
 
 [Google Drive Link]: https://drive.google.com/open?id=1MOhRo103Qzm6RLvur54xlomNEyEbRJsW
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
