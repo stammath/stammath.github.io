@@ -6,12 +6,13 @@ image: ss12.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
-<!--more-->**अर्धनारीश्वर स्तोत्रम**
+<!--more-->
+**अर्धनारीश्वर स्तोत्रम**
 
 Shri Ardhanarishwara Stotram
 
 **चाम्पेयगौरार्धा शरीरकायै कर्पूरगौरार्धा शरीरकाय|**  
-**धम्मिल्लकायै  च जटाधराय नमः  शिवायै  च नमः शिवाय ||**
+**धम्मिल्लकायै  च जटाधराय नमः  शिवायै  च नमः शिवाय**
 
 Champeya gowrardha sareerakayai,  
 Karpoora gourardha sareerakaya,  
@@ -25,7 +26,7 @@ To Her who has a well made up hair,
 And to Him who has the matted lock.
 
 **कस्तूरिका कुंकुमचर्चितायै चितारजःपुंज विचर्चिताय  |  
-कृतस्मरायै विकृतस्मराय नमः शिवायै च नमः शिवाय ||**
+कृतस्मरायै विकृतस्मराय नमः शिवायै च नमः शिवाय**
 
 Kasthurika kumkuma charchithayai,  
 Chitharaja puncha vicharchithayai,  
@@ -38,8 +39,8 @@ To Him whose body is smeared with ashes of a burning ghat,
 To Her whose prettiness radiates love,  
 And to Him who destroyed the God of love.
 
-**चलत्क्वणत्कंकण नूपुरायै पादाब्जराज त्फणीनूपुराय ।  
-हेमांगदायै भुज गांगदाय नम: शिवायै च नम: शिवाय ॥ ३ ॥**
+**चलत्क्वणत्कंकण नूपुरायै पादाब्जराज त्फणीनूपुराय।  
+हेमांगदायै भुज गांगदाय नम: शिवायै च नम: शिवाय**
 
 Jhanath kvanath kankana noopurayai,  
 Padabja Rajat phani noopuraya,  
@@ -52,8 +53,8 @@ To Him who has the king of snakes as anklet,
 To Her who shines with golden anklets,  
 And to Him who has snakes as anklets.
 
-**विशालनीलोत्पल लोचनायै विकासिपंके रुहलोचनाय ।  
-समेक्षणायै विषमेक्षणाय नम: शिवायै च नम: शिवाय ॥ ४ ॥**
+**विशालनीलोत्पल लोचनायै विकासिपंके रुहलोचनाय ।
+समेक्षणायै विषमेक्षणाय नम: शिवायै च नम: शिवाय**
 
 Visala nilothphala lochanayai,  
 Vikasi pangeruha lochanaya,  
