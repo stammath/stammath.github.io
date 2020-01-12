@@ -123,8 +123,7 @@ To Him who wears a great serpent as an ornament,
 To Her who is divinely merged with Shiva,  
 And to Him who is divinely merged with Parvathi.
 
-**प्रपंचसृष्ट्युन्मुखलास्यकायै समस्तसंहारकताण्डवाय ।  
-जगज्जनन्यैजगदेकपित्रे नम: शिवायै च नम: शिवाय ॥ ७ ॥**
+**एतत् पठेदष्टकमिष्टदं यो भक्त्या स मान्यो भुवि दीर्घजीवी । प्राप्नोति सौभाग्यमनन्तकालं भूयात् सदा तस्य समस्तसिद्धि: ।।॥ ७ ॥**
 
 Ethath pateth astaka mistatham yo,  
 Bhakthyaa sa maanyo bhuvi deerghajeevi,  
