@@ -2,7 +2,7 @@
 layout: post
 title: ॥ श्री महामृत्युंजय स्तॊत्रम्‌॥-Shri Mrityunjaya Stotram
 date: 2020-02-20 00:00:00 -0000
-image: SS11.jpg
+image: SS5.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
@@ -11,13 +11,13 @@ excerpt_separator: <!--more-->
 
 **रुद्रं, पसुपथिं, स्थाणुं, नीलकन्दं, उमापथिं,  नमामि सिरस देवं, किं नो मृत्यु करिष्यथि. 1**  
 
-What can death do to the one,
-Who salutes with his head that god,
-Who is the angry one,
-Who is the lord of all beings,
-Who is stable,
-Who has a blue neck,
-And who is the consort of Uma.
+What can death do to the one,   
+Who salutes with his head that god,   
+Who is the angry one,  
+Who is the lord of all beings,  
+Who is stable,  
+Who has a blue neck,  
+And who is the consort of Uma.  
 
 
 **नीलकन्दं, कलमूर्थिं कलग्नंर कलनासनं,  नमामि सिरस देवं, किं नो मृत्यु करिष्यथि. 2** 
