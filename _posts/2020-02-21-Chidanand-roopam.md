@@ -7,47 +7,55 @@ tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
 
-The Atmashatkam (आत्मषट्कम्, ātmaṣatkam), also known as Nirvanashatkam (निर्वाणषट्कम्, Nirvāṇaṣatkam), is a composition consisting of 6 verses or ślokas (and hence the name Șaṭ-ka to mean six-verses) in Sanskrit, written by the Hindu philosopher Adi Shankara summarizing the basic teachings of Advaita Vedanta, or the Hindu teachings of non-dualism. It was written around 788-820 CE.
+The Atmashatkam (आत्मषट्कम्, ātmaṣatkam), also known as Nirvanashatkam (निर्वाणषट्कम्, Nirvāṇaṣatkam), is a composition consisting of 6 verses or ślokas (and hence the name Șaṭ-ka to mean six-verses) in Sanskrit, written by the Hindu philosopher Adi Shankara summarizing the basic teachings of Advaita Vedanta, or the Hindu teachings of non-dualism. It was written around 788-820 CE.     
+
+
+It is said that when Ādi Śaṅkara was a young boy of eight and wandering near River Narmada, seeking to find his guru, he encountered the seer Govinda Bhagavatpada who asked him, "Who are you?". The boy answered with these stanzas, which are known as "Nirvāṇa Shatkam" or Ātma Shatkam". Swami Govindapada accepted Ādi Śaṅkara as his disciple. The verses are said to be valued to progress in contemplation practices that lead to Self-Realization.  
+
+"Nirvāṇa" is complete equanimity, peace, tranquility, freedom and joy. "Ātma" is the True Self.  
+
+
+
 
 ## Lyrics
 
 मनो बुद्ध्यहंकारचित्तानि नाहम् न च श्रोत्र जिह्वे न च घ्राण नेत्रे,    
 न च व्योम भूमिर् न तेजॊ न वायु: चिदानन्द रूप: शिवोऽहम् शिवॊऽहम्
 
-न च प्राण संज्ञो न वै पञ्चवायु: न वा सप्तधातुर् न वा पञ्चकोश:
+न च प्राण संज्ञो न वै पञ्चवायु: न वा सप्तधातुर् न वा पञ्चकोश:   
 न वाक्पाणिपादौ न चोपस्थपायू चिदानन्द रूप: शिवोऽहम् शिवॊऽहम् ॥
 
-न मे द्वेष रागौ न मे लोभ मोहौ मदो नैव मे नैव मात्सर्य भाव:
+न मे द्वेष रागौ न मे लोभ मोहौ मदो नैव मे नैव मात्सर्य भाव:     
 न धर्मो न चार्थो न कामो ना मोक्ष: चिदानन्द रूप: शिवोऽहम् शिवॊऽहम् ॥
 
-न पुण्यं न पापं न सौख्यं न दु:खम् न मन्त्रो न तीर्थं न वेदा: न यज्ञा:
+न पुण्यं न पापं न सौख्यं न दु:खम् न मन्त्रो न तीर्थं न वेदा: न यज्ञा:    
 अहं भोजनं नैव भोज्यं न भोक्ता चिदानन्द रूप: शिवोऽहम् शिवॊऽहम् ॥
 
-न मृत्युर् न शंका न मे जातिभेद: पिता नैव मे नैव माता न जन्म
+न मृत्युर् न शंका न मे जातिभेद: पिता नैव मे नैव माता न जन्म    
 न बन्धुर् न मित्रं गुरुर्नैव शिष्य: चिदानन्द रूप: शिवोऽहम् शिवॊऽहम् ॥
 
-अहं निर्विकल्पॊ निराकार रूपॊ विभुत्वाच्च सर्वत्र सर्वेन्द्रियाणाम्
+अहं निर्विकल्पॊ निराकार रूपॊ विभुत्वाच्च सर्वत्र सर्वेन्द्रियाणाम्     
 न चासंगतं नैव मुक्तिर् न मेय: चिदानन्द रूप: शिवोऽहम् शिवॊऽहम् ॥
 
 
 
 English Transliteration:
-Mano Budhyahankaar Chitani Naaham, Na Cha Shrotra Jihve Na Cha Ghraana netre
+Mano Budhyahankaar Chitani Naaham, Na Cha Shrotra Jihve Na Cha Ghraana netre    
 Na Cha Vyoma Bhumir Na Tejo Na Vayuh, Chidananda Rupah Shivoham Shivoham
 
-Na Cha Praana Sanjno Na Vai Pancha Vaayuhu, Na Vaa Sapta Dhaatur Na Va Pancha Koshah
+Na Cha Praana Sanjno Na Vai Pancha Vaayuhu, Na Vaa Sapta Dhaatur Na Va Pancha Koshah    
 Na Vaak Paani Paadau Na Chopasthapaayuh, Chidaananda Rupah Shivoham Shivoham
 
-Na Me Dvesha Raagau Na Me Lobha Mohau, Mado Naiva Me Naiva Maatsarya Bhaavah
+Na Me Dvesha Raagau Na Me Lobha Mohau, Mado Naiva Me Naiva Maatsarya Bhaavah   
 Na Dharmo Na Chaartho Na Kaamo Na Moksha, Chidaananda Rupah Shivoham Shivoham
 
-Na Punyan Na Paapan Na Saukhyan Na Dukham, Na Mantro Na Tirthan Na Vedaah Na Yajnaah
-Aham Bhojanan Naiv Bhojyan Na Bhoktaa, Chidaananda Rupah Shivoham Shivoham
+Na Punyan Na Paapan Na Saukhyan Na Dukham, Na Mantro Na Tirthan Na Vedaah Na Yajnaah    
+Aham Bhojanan Naiv Bhojyan Na Bhoktaa, Chidaananda Rupah Shivoham Shivoham 
 
-Na Mrityur Na Shanka Na Me Jaati Bhedah, Pitaa Naiva Me Naiva Maataa Na Janma
+Na Mrityur Na Shanka Na Me Jaati Bhedah, Pitaa Naiva Me Naiva Maataa Na Janma   
 Na Bandhur Na Mitram Guru Naiva Shishyah, Chidaananda Rupah Shivoham Shivoham
 
-Aham Nirvikalpo Niraakaara Rupo, Vibhutvaaccha Sarvatra Sarvendriyaanaam
+Aham Nirvikalpo Niraakaara Rupo, Vibhutvaaccha Sarvatra Sarvendriyaanaam   
 Na Chaa Sangatan Naiva Muktir Na meyah Chidananda Rupah Shivoham Shivoham
 
 Meaning:
@@ -64,5 +72,11 @@ Meaning:
 6)	I am all pervasive. I am without any attributes, and without any form. I have neither attachment to the world, nor to liberation. I have no wishes for anything because I am everything, everywhere, every time, always in equilibrium. I am indeed, That eternal knowing and bliss, Shiva, love and pure consciousness.
 
 
-Taken from: https://www.sannyas.wiki/index.php?title=Chidananda
+Links : https://www.sannyas.wiki/index.php?title=Chidananda, http://www.hindupedia.com/en/Nirvana_shatakam, https://en.wikipedia.org/wiki/Atma_Shatkam
 
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/open?id=1-jTaTn-HTWCX865Lbpeqf1AgKtWjQC80
