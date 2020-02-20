@@ -1,6 +1,6 @@
 ---
 layout: post
-title: आत्मषट्कम्-Hari Naam Mala Stotram 
+title: आत्मषट्कम्-Atmashatkam  
 date: 2020-02-21 00:00:00 -0000
 image: SS11.jpg
 tags: [Music-Sanskrit]
@@ -39,7 +39,7 @@ It is said that when Ādi Śaṅkara was a young boy of eight and wandering near
 
 
 
-English Transliteration:
+English Transliteration:  
 Mano Budhyahankaar Chitani Naaham, Na Cha Shrotra Jihve Na Cha Ghraana netre    
 Na Cha Vyoma Bhumir Na Tejo Na Vayuh, Chidananda Rupah Shivoham Shivoham
 
