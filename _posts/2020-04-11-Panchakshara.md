@@ -35,8 +35,8 @@ excerpt_separator: <!--more-->
 ( Who is Worshipped with Water from the River Mandakini and Smeared with Sandal Paste, Who is the Lord of Nandi and of the Ghosts and Goblins, the Great Lord, Who is Worshipped with Mandara and Many Other Flowers, Salutations to that Shiva, Who is represented by syllable "Ma".)  
   
 ****शिवाय गौरीवदनाब्जवृंद       
-सूर्याय दक्षाध्वरनाशकाय ।*      
-*श्रीनीलकण्ठाय वृषध्वजाय      
+सूर्याय दक्षाध्वरनाशकाय ।      
+श्रीनीलकण्ठाय वृषध्वजाय      
 तस्मै शि-काराय नमः शिवाय ॥३॥****       
 
 ( शिवाय - शुभमङ्गल , गौरी - माँ पार्वती , वदन - मुख , अब्ज - कमल , वृंद - समूह , दक्ष - आदि शक्ति माता के पिताश्री , अध्वर - अविध्न / यज्ञ , नाशकाय - विनाशक , कण्ठ - गला , वृष - बैल , ध्वज - झंडा )  
@@ -46,8 +46,8 @@ excerpt_separator: <!--more-->
 (Who is Auspicious and Who is like the Newly Risen Sun Causing the Lotus-Face of Gauri (Devi Parvati) to Blossom, Who is the Destroyer of the Sacrifice (Yajna) of Daksha, Who has a Blue Throat and has a Bull as His Emblem, Salutations to that Shiva, Who is represented by syllable "Shi".)  
   
 ***वशिष्ठकुम्भोद्भवगौतमार्य        
-* मूनीन्द्रदेवार्चितशेखराय ।*     
-*चन्द्रार्कवैश्वानरलोचनाय     
+मूनीन्द्रदेवार्चितशेखराय ।     
+चन्द्रार्कवैश्वानरलोचनाय     
 तस्मै व-काराय नमः शिवाय ॥४॥***     
   
 ( वशिष्ट - रघुकुल गुरु महिर्षि वशिष्ट , कुम्भोद्भव - महिर्षि अगस्त्य , गौतम - महिर्षि गौतम , आर्य - कुलीन , मुनीन्द्र - साधुओं में श्रेष्ट , देवार्चित - देवताओं द्वारा उपासित , शेखर - ब्रह्माण्ड शिरोमणि , आर्क - सूर्य , वैश्वानर - अग्नि , लोचन - नेत्र )  
@@ -57,8 +57,8 @@ excerpt_separator: <!--more-->
 (Who is Worshipped by the Best and most Respected Sages like Vashistha, Agastya and Gautama and also by the Gods and Who is the Crown of the Universe, Who has the Chandra (Moon), Surya (Sun) and Agni (Fire) as His Three Eyes, Salutations to that Shiva, Who is represented by syllable "Va".)  
   
 ***यज्ञस्वरूपाय जटाधराय      
-पिनाकहस्ताय सनातनाय ।*      
-*दिव्याय देवाय दिगम्बराय        
+पिनाकहस्ताय सनातनाय ।       
+दिव्याय देवाय दिगम्बराय          
 तस्मै य-काराय नमः शिवाय ॥५॥***      
   
 ( स्वरुप - के जैसे , जटा - लम्बे गुँथे केश , पिनाक - त्रिशूल , हस्त - हाथ , सनातन - शाश्वत , दिव्य - अद्भुत )  
@@ -68,8 +68,8 @@ excerpt_separator: <!--more-->
 (Who is the Embodiment of Yajna (Sacrifice) and Who has Matted Hairs, Who has the Trident in His Hand and Who is Eternal, Who is Divine, Who is the Shining One and Who has the Four Directions as His Clothes, Salutations to that Shiva, Who is represented by syllable"Ya".)  
   
 ***पञ्चाक्षरमिदं पुण्यं       
-यः पठेच्छिवसंनिधौ ।*      
-*शिवलोकमावाप्नोति      
+यः पठेच्छिवसंनिधौ ।      
+शिवलोकमावाप्नोति       
 शिवेन सह मोदते ॥६॥***      
   
 ( पञ्चाक्षर - ॐ नमः शिवाय मन्त्र , इदं - यह , यः - जो , पठ - पढ़ना , संनिधौ - सानिध्य/ निकटता , अप्नोति - प्राप्त होता , सह - साथ , मोदते - आनंद का भागी )  
