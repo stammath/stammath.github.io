@@ -1,8 +1,8 @@
 ---
 layout: post
-title: vaidyanathAshtakam
+title: श्री वैद्यनाथाष्टकम्-Shri Vaidyanatha Ashtakam
 date: 2020-05-10 00:00:00 -0000
-image: 
+image: 500012900494_20362.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
