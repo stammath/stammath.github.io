@@ -1,8 +1,8 @@
 ---
 layout: post
-title: YamYamYamYakshaRoopam
+title:  महाकालभैरवाष्टकम्-Mahakaal Bhairav Ashtakam
 date: 2020-05-10 00:00:00 -0000
-image: 
+image: 500001900327_253191.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
