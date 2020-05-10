@@ -1,8 +1,8 @@
 ---
 layout: post
-title: GangaLahiri
+title: Ganga Lahari Stotram
 date: 2020-05-10 00:00:00 -0000
-image: 
+image: 500007200250_118625.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
