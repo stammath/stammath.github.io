@@ -2,7 +2,7 @@
 layout: post
 title: 
 date: 2020-05-10 00:00:00 -0000
-image: Bhim-lata.jpg
+image: 
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
