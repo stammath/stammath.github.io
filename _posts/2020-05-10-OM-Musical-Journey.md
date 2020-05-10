@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A musical Journy of OM
+title: Mandukya Upanishad: A Musical Experience of Om
 date: 2020-05-10 00:00:00 -0000
-image: 
+image: 500018000092_7715.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
