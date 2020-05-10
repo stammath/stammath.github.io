@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bhavaniashtakam
+title: भवान्यष्टकम्-Bhavānyaṣṭakam 
 date: 2020-04-01 00:00:00 -0000
-image: 
+image: 500010300866_47753.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
