@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: GangaLahiri
-date: 2019-06-08 00:00:00 -0000
-image: Bhim-lata.jpg
+date: 2020-04-28 00:00:00 -0000
+image: 
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
