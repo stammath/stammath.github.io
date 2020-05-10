@@ -2,7 +2,7 @@
 layout: post
 title: Mritasanjeevani Stotram
 date: 2020-05-10 00:00:00 -0000
-image: <a href="https://imgur.com/qCdGXSz"><img src="https://i.imgur.com/qCdGXSz.jpg" title="source: imgur.com" /></a>
+image: 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
