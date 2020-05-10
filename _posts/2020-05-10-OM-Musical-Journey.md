@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mandukya Upanishad: A Musical Experience of Om
+title: Mandukya Upanishad-A Musical Experience of Om
 date: 2020-05-10 00:00:00 -0000
 image: 500018000092_7715.jpg
 
