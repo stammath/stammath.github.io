@@ -1,8 +1,8 @@
 ---
 layout: post
-title: DhyayeNityam
+title: ध्याये नित्यं महेशम Dhyaye Nityam Mahesham
 date: 2020-04-26 00:00:00 -0000
-image: 
+image: 500017900896_7344.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
