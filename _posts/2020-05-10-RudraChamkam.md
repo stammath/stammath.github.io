@@ -1,8 +1,8 @@
 ---
 layout: post
-title: RudraChamkam
+title: रुद्र चमकम्-RudraChamkam
 date: 2020-05-10 00:00:00 -0000
-image: 
+image: 500010200253_52245.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
