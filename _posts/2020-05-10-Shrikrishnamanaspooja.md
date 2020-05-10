@@ -1,8 +1,8 @@
 ---
 layout: post
-title: श्रीकृष्णमानसपूजास्तोत्रम्
+title: श्रीकृष्णमानसपूजास्तोत्रम्-Shri Krishna Manas Pooja Stotram
 date: 2020-05-10 00:00:00 -0000
-image: 
+image: 500013700555_18541.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
