@@ -1,8 +1,8 @@
 ---
 layout: post
-title: KalbhairavAshtakam
+title:  कालभैरवाष्टकम् - Kalabhairava Ashtakam
 date: 2020-05-10 00:00:00 -0000
-image: 
+image: 500018100038_7276.jpg
 
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
