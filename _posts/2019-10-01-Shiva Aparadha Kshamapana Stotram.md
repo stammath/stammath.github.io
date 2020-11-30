@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 
 ---
-
+<!--more-->
 <p>Pranam,</p>
 <p>This stotram was composed by Adi Shankaracharya ji.</p>
 <hr>

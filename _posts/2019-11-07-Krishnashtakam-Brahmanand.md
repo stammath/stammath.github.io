@@ -6,13 +6,13 @@ image: SK8.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
-
+<!--more-->
 
 **श्री गणेशाय नमः ।  
 
 **चतुर्मुखादिसंस्तुतं समस्तसात्वतानुतम् ।  
 हलायुधादिसंयुतं नमामि राधिकाधिपम् ॥ १॥****
-<!--more-->
+
 Chathur mukhadhi samsthutham, samastha sthvathonutham, Halaudhadhi sayutham, namami radhikadhipam. 1
 
 I salute the Lord of Radha, Who is worshipped by Brahma and other devas, Who is always worshipped by good people, And who is accompanied by Bala Rama and others.

@@ -7,7 +7,7 @@ image: bhimsen-joshi.jpg
 tags: [Music-Other]
 excerpt_separator: <!--more-->
 ---
-
+<!--more-->
 
 **Composition**: Brahmanand
 
@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 **Composition Format**: Bhajan
 
 **Raag**: Bhairavi
-<!--more-->
+
 
 
 ## Lyrics

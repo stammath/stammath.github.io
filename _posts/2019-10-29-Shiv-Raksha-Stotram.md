@@ -10,10 +10,10 @@ excerpt_separator: <!--more-->
 
 
 ---
-
+<!--more-->
 <p><strong>Shri Shiva Raksha Stotra</strong> is in Sanskrit and it is written by shri Yagyavalkya Rishi. It was told to him in his dream by shri Bhagwan Narayan i.e. Vishnu.</p>
 <p>It is assured that whosoever recites this stotra, with unshaken faith in mind, with devotion and concentration will conquer three worlds i.e. Swarga, Prithvi and Patala.</p>
-<!--more-->
+
 <p>It means that he will be winner every where. In this stotra, we are asking lord Shiva by calling him with his auspicious names, to protect each and every part of our body.</p>
 <p>This is also a Kavacha like Devi Kavacha and Ram Raksha Stotra. We have to recite this stotra daily with faith, concentration and devotion to receive blessings, success, good health, prosperity and peace from God Shiva.</p>
 <p><strong>श्री गणेशाय नमः ॥<br>

@@ -7,12 +7,12 @@ tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
 
-
+ <!--more-->
 
 Rendition by Pandit Jasraj 
 
 Shree Krishna Madhurashtakam (श्री कृष्णमधुराष्टकम), composed by Sri Vallabhacharya (1478 A.D), is a unique stotra, describing the **Sweetness of Lord Sri Krishna**.
-<!--more-->
+
 ## Lyrics with meaning
 
 **अधरं मधुरं वदनं मधुरं,  नयनं मधुरं हसितं मधुरम्।  हृदयं मधुरं गमनं मधुरं,  मधुराधिपतेरखिलं मधुरम्॥1।।  (मधुराधिपते अखिलं मधुरम्)**  
