@@ -7,8 +7,8 @@ image: Rajan-Sajan-Misra.jpg
 tags: [Music-Other]
 excerpt_separator: <!--more-->
 ---
-
-Today I am sharing a beautiful *bhajan* sung by none other than Pandit Rajan and Sajan Misra Ji Maharaj. It has been a source of positivity <!--more-->
+ <!--more-->
+Today I am sharing a beautiful *bhajan* sung by none other than Pandit Rajan and Sajan Misra Ji Maharaj. It has been a source of positivity
 and happiness for me. Listening this amazing divine like rendition by Pandit ji gives immense peace to my heart and mind.
 
 

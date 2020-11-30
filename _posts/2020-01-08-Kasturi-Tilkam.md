@@ -7,8 +7,9 @@ image: SK12.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
-कस्तूरी तिलकम-
 <!--more-->
+कस्तूरी तिलकम-
+
 ## Lyrics
 
 कस्तूरी तिलकम

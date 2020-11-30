@@ -6,8 +6,8 @@ image: SS11.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
-
-The Atmashatkam (आत्मषट्कम्, ātmaṣatkam), also known as Nirvanashatkam (निर्वाणषट्कम्, Nirvāṇaṣatkam), is a composition <!--more--> consisting of 6 verses or ślokas (and hence the name Șaṭ-ka to mean six-verses) in Sanskrit, written by the Hindu philosopher Adi Shankara summarizing the basic teachings of Advaita Vedanta, or the Hindu teachings of non-dualism. It was written around 788-820 CE.     
+<!--more-->
+The Atmashatkam (आत्मषट्कम्, ātmaṣatkam), also known as Nirvanashatkam (निर्वाणषट्कम्, Nirvāṇaṣatkam), is a composition consisting of 6 verses or ślokas (and hence the name Șaṭ-ka to mean six-verses) in Sanskrit, written by the Hindu philosopher Adi Shankara summarizing the basic teachings of Advaita Vedanta, or the Hindu teachings of non-dualism. It was written around 788-820 CE.     
 
 
 It is said that when Ādi Śaṅkara was a young boy of eight and wandering near River Narmada, seeking to find his guru, he encountered the seer Govinda Bhagavatpada who asked him, "Who are you?". The boy answered with these stanzas, which are known as "Nirvāṇa Shatkam" or Ātma Shatkam". Swami Govindapada accepted Ādi Śaṅkara as his disciple. The verses are said to be valued to progress in contemplation practices that lead to Self-Realization.  

@@ -6,11 +6,11 @@ image: Sk6.jpg
 tags: [Music-Sanskrit]
 excerpt_separator: <!--more-->
 ---
-
+<!--more-->
 हरिनाममालास्तोत्रम्-Hari Naam Mala Stotram
  
 गोविन्दं गोकुलानन्दं गोपालं गोपिवल्लभम् ।  गोवर्घनोद्धं धीरं तं वन्दे गोमतिप्रियम् ॥ 
-<!--more-->
+
 *I salute that lord, who is dear to Saraswathi,  
 Who gives pleasure to the herd of cows,  
 Who brings joy to those in [Gokula](http://www.hindupedia.com/en/Gokula "Gokula"),  

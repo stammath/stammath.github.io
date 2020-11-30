@@ -11,10 +11,10 @@ excerpt_separator: <!--more-->
 
 
 ---
-
+<!--more-->
 <p>Pranam,</p>
 <p>On this auspicious day of Diwali. I present the divineful Ramashtakam in its fully glory. It was written by Ved Vyas Ji.</p>
-<!--more-->
+
 <h1 id="lyrics-and-meaning">Lyrics and Meaning</h1>
 <p><strong>भजे विशेषसुन्दरं समस्तपापखण्डनम् ।<br>
 स्वभक्तचित्तरञ्जनं सदैव राममद्वयम् ॥ १ ॥</strong></p>
