@@ -11,8 +11,7 @@ excerpt_separator: <!--more-->
  <!--more-->
 ## शिवा नमस्काराथा मंत्र - Shiva Namaskaratha Mantra
 
-  [https://temple-in-india.blogspot.com/2018/07/shiva-namaskaratha-mantra.html](https://temple-in-india.blogspot.com/2018/07/shiva-namaskaratha-mantra.html)
-https://www.youtube.com/watch?v=IO9d5GjfwzY
+
 ॐ नमो हिरण्यबाहवे हिरण्यवर्णाय हिरण्यरूपाय हिरण्यपतए अंबिका पतए उमा पतए पशूपतए नमो नमः
 
   
@@ -35,4 +34,9 @@ https://www.youtube.com/watch?v=IO9d5GjfwzY
 
 शांति शांति शांति
 
-> Written with [StackEdit](https://stackedit.io/).
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1UxAzIWoDYkAFey7XkRTKoAvsDOmMPE5X/view?usp=sharing

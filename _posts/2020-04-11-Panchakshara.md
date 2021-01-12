@@ -78,4 +78,9 @@ excerpt_separator: <!--more-->
   
 (Whoever Recites this Panchakshara (hymn in praise of the five syllables of Na-Ma-Shi-Va-Ya) near Shiva (Lingam), Will Attain the Abode of Shiva and enjoy His Bliss.)
 
-[https://en.wikipedia.org/wiki/Shiva_Panchakshara_Stotra], [https://kvssanskrit.blogspot.com/2019/03/shiv-panchakshram-stotram.html](https://kvssanskrit.blogspot.com/2019/03/shiv-panchakshram-stotram.html)(https://en.wikipedia.org/wiki/Shiva_Panchakshara_Stotra)
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1fF_6TljdABVpsahpCtFxCECF8Tc8AuZ0/view?usp=sharing

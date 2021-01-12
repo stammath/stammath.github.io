@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 ﻿[http://shivu360.blogspot.com/2009/02/mritasanjeevani-stotram.html](http://shivu360.blogspot.com/2009/02/mritasanjeevani-stotram.html)
 
-[https://www.youtube.com/watch?v=CnmpAtfDE-E](https://www.youtube.com/watch?v=CnmpAtfDE-E)
+
 
 
 मृतसञ्जीवन स्तोत्रम्
@@ -257,5 +257,12 @@ mritasangjivanan namna devatairapi durlabham ॥
 ॥ iti vasishth krit mritasangjivan stotram ॥  
 
 ॥ इस प्रकार मृतसञ्जीवन कवच सम्पूर्ण हुआ ॥
+
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1t3iXswbnylBtjZES37MrOAHR0wleWTfW/view?usp=sharing
 
 > Written with [StackEdit](https://stackedit.io/).

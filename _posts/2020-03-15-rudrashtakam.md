@@ -125,7 +125,10 @@ Meaning - Lord Rudra's this ashtakam is for the worship of supreme lord Shiva. T
 Here ends Sri Goswami Tulsidasa composed Shri Rudra ashtakam ॥
 
 
+## MP3
 
-[https://www.devshoppe.com/blogs/articles/shri-rudrashtakam-with-meaning](https://www.devshoppe.com/blogs/articles/shri-rudrashtakam-with-meaning)
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1YotlAD6XOA0dJKQOu8oN0kiU8Fz44dSI/view?usp=sharing
 
 

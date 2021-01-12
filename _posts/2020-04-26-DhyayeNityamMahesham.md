@@ -18,9 +18,10 @@ excerpt_separator: <!--more-->
 
 सरल शब्दों में मतलब है कि पञ्चमुखी, त्रिनेत्रधारी, चांदी की तरह तेजोमयी, चंद्र को सिर पर धारण करने वाले, जिनके अंग-अंग रत्न-आभूषणों से दमक रहे हैं, चार हाथों में परशु, मृग, वर और अभय मुद्रा है। मुखमण्डल पर आनंद प्रकट होता है, पद्मासन पर विराजित हैं, सारे देव, जिनकी वंदना करते हैं, बाघ की खाल धारण करने वाले ऐसे सृष्टि के मूल, रचनाकार महेश्वर का मैं ध्यान करता हूं।
 
+## MP3
 
+[Google Drive Link][Google Drive Link]
 
-﻿https://www.youtube.com/watch?v=RrM2rSImrgg
-
+[Google Drive Link]: https://drive.google.com/file/d/1mCXKoewQeUopg6kUlBqQ0BUmkffXCzfM/view?usp=sharing
 
 > Written with [StackEdit](https://stackedit.io/).

@@ -14,10 +14,6 @@ excerpt_separator: <!--more-->
 
 ﻿**Kalabhairava Ashtakam** is a Sanskrit stotra about Lord Shiva written by Adi Shankara that is chanted with the intention of eliminating negative tendencies within oneself, such as greed, attachment and anger
 
-_Kalabhairava – a fearsome form of Shiva._
-[https://www.youtube.com/watch?v=sfdQwmgaS1M&feature=emb_logo](https://www.youtube.com/watch?v=sfdQwmgaS1M&feature=emb_logo)
-
-[http://www.hindupedia.com/en/Kala_Bhairava_Ashtakam](http://www.hindupedia.com/en/Kala_Bhairava_Ashtakam)
 ll कालभैरवाष्टकम् ll  
 
 देवराजसेव्यमानपावनांघ्रिपंकजं । व्यालयज्ञसूत्रमिंदुशेखरं कृपाकरम् ॥  
@@ -55,5 +51,9 @@ ll कालभैरवाष्टकम् ll
 
 शोकमोहदैन्यलोभकोपतापनाशनम् । प्रयान्ति कालभैरवांघ्रिसन्निधि नरा ध्‍रुवम् ॥९॥
 
-[https://www.youtube.com/watch?v=BsEqI1NZA-E](https://www.youtube.com/watch?v=BsEqI1NZA-E)
-> Written with [StackEdit](https://stackedit.io/).
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1kTn52MRQyZmPgoKAmJxfwF53PP1KT5md/view?usp=sharing

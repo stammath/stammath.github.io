@@ -193,5 +193,10 @@ And pray, ”destroy all life’s problems,
 Oh Lord of Yoga, I salute you.”
 
 
-Links: [https://www.saivism.net/prayers/mrityu.asp](https://www.saivism.net/prayers/mrityu.asp)
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1Hi58GZT3icKi-vBSLuK7QEWBpeibyr7Z/view?usp=sharing
 

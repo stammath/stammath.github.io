@@ -138,8 +138,11 @@ Those who recite this prayer thrice a day with devotion and pray the Lord Vaidya
 
 Iti Shri Vaidyanatha Ashtakam
 
-Thus completes Shri Vaidyanatha Ashtakam.
-﻿[https://www.youtube.com/watch?v=0bmqQAn0ydc](https://www.youtube.com/watch?v=0bmqQAn0ydc)
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1-03wdA8AEz-CbvlaKutD0E40bRTIcY-8/view?usp=sharing
 
 
 > Written with [StackEdit](https://stackedit.io/).

@@ -35,7 +35,10 @@ excerpt_separator: <!--more-->
 
 कामादिसर्प व्रजगारुडाभ्यां विवेकवैराग्य निधिप्रदाभ्यां |
 बोधप्रदाभ्यां दृतमोक्षदाभ्यां नमो नमः श्रीगुरुपादुकाभ्याम् || 9 ||
-[https://www.youtube.com/watch?v=nmeNd9PFqaA](https://www.youtube.com/watch?v=nmeNd9PFqaA)
 
-http://silentshiva.blogspot.com/2013/03/mystic-chants-guru-paduka-stotram.html
-> Written with [StackEdit](https://stackedit.io/).
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1Yj_hTQDET_wVdlGQYRxE-5z4K1NMxBPF/view?usp=sharing

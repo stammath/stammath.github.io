@@ -91,7 +91,9 @@ Meaning:
 5.3: While Performing Actions which are Prescribed (i.e. duties prescribed by tradition or allotted duties in one's station of life), As Well as All other Actions which are Not explicitly Prescribed (i.e. actions done by self-judgement, by mere habit, without much thinking, unknowingly etc); Please Forgive Them All,
 5.4: Victory, Victory to You, O Sri Mahadeva Shambho, I Surrender to You, You are an Ocean of Compassion.
 
-https://greenmesg.org/stotras/shiva/shiva_manasa_puja.php
 
-[https://www.youtube.com/watch?v=Gm8Ylq6IzBM](https://www.youtube.com/watch?v=Gm8Ylq6IzBM)
-> Written with [StackEdit](https://stackedit.io/).
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1uunrnTw6Zezsd060FsHouVlnC-xi-GqB/view?usp=sharing
