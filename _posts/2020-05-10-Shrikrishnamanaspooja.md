@@ -11,11 +11,6 @@ excerpt_separator: <!--more-->
  <!--more-->
 
 
-﻿[http://www.hindupedia.com/en/Sri_Krishna_manasa_puja](http://www.hindupedia.com/en/Sri_Krishna_manasa_puja)
-[http://ioustotra.blogspot.com/2009/05/bhagwan-manas-pooja-stotra.html](http://ioustotra.blogspot.com/2009/05/bhagwan-manas-pooja-stotra.html)
-[https://www.youtube.com/watch?v=_Am2_lF5dpc](https://www.youtube.com/watch?v=_Am2_lF5dpc)
-
-[http://sekhar789.blogspot.com/2015/03/srikrishna-manasa-puja-stotram-krishna.html](http://sekhar789.blogspot.com/2015/03/srikrishna-manasa-puja-stotram-krishna.html)
 श्रीकृष्णमानसपूजास्तोत्रम्  
 (श्रीशंकराचार्यविरचितम्)  
   
@@ -194,4 +189,9 @@ If done by a learned man in the dawn, would make Lord Krishna pleased with him.
 Ithi Sri Shankaracharya virachitham Bhagwan manasa pooja sampoornam.  
   
 Thus ends the mental worship to Lord Krishna composed by Adi Shankara.
-> Written with [StackEdit](https://stackedit.io/).
+
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1tZbz_QsAwgj3VJx1AbR4wXmjbgU7wROI/view?usp=sharing

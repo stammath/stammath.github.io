@@ -61,8 +61,18 @@ Meaning:  7.1: During Dispute and Quarrel, during Despair and Dejection, during 
 anāthō daridrō jarārōgayuktō mahākṣīṇadīnaḥ sadā jāḍyavaktraḥ ǀ  vipattau praviṣṭaḥ praṇaṣṭaḥ sadāham gatistvaṁ gatistvaṁ tvamēkā bhavānī ǁ8ǁ  
 
 Meaning:  8.1: I am Helpless, Poor, Afflicted by Old Age and Disease,  8.2: Very Weak and Miserable, always with a Pale Countenance,  8.3: Fallen Asunder, Always surrounded by and Lost in Troubles and Miseries,  8.4: You are my Refuge, You Alone are my Refuge, Oh Mother Bhavani.
-[https://www.youtube.com/watch?v=OEN291uRvBA](https://www.youtube.com/watch?v=OEN291uRvBA)
-[https://www.youtube.com/watch?v=3jcb7LlPQlU](https://www.youtube.com/watch?v=3jcb7LlPQlU)
-[https://www.youtube.com/watch?v=hI3e409wZHE](https://www.youtube.com/watch?v=hI3e409wZHE)
+
+
+[Google Drive Link-1][Google Drive Link-1]
+
+[Google Drive Link-1]: https://drive.google.com/file/d/1EJ0e8JUeeqlQfuusNDWef_D_D9cMUEXs/view?usp=sharing
+
+[Google Drive Link-2][Google Drive Link-2]
+
+[Google Drive Link-2]: https://drive.google.com/file/d/1K2aZgb5CA0jo0JJjhsD_NK50FxwiF-Jr/view?usp=sharing
+
+[Google Drive Link-3][Google Drive Link-3]
+
+[Google Drive Link-3]: https://drive.google.com/file/d/1aZRk-3Z5MImlVfy7KuVv6OIXfP53KOO4/view?usp=sharing
 
 > Written with [StackEdit](https://stackedit.io/).

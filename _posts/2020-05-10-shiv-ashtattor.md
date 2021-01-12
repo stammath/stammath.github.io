@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 ﻿# शिव अष्टोत्तर शतनाम स्तोत्रम
 
 ## Shiva Ashtottara Shatanama Stotram
-[https://www.youtube.com/watch?v=nM7MZFAan64](https://www.youtube.com/watch?v=nM7MZFAan64)
+
 
 शिवो महेश्वरः शम्भुः पिनाकी शशिशेखरः ।  
 वामदेवो विरूपाक्षः कपर्दी नीललोहितः ॥१॥
@@ -57,4 +57,13 @@ excerpt_separator: <!--more-->
 
 इति श्रीशिवाष्टोत्तरशतनामावळिस्तोत्रं संपूर्णम ॥
 [https://shaivam.org/scripture/Marathi/2235/mi-shiva-ashtottara-shatanama-stotram](https://shaivam.org/scripture/Marathi/2235/mi-shiva-ashtottara-shatanama-stotram)
+
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1RZ-N0J5eUA6fELwJ8E2Y2H8Rl7DyT1wr/view?usp=sharing
+
+
+
+
 > Written with [StackEdit](https://stackedit.io/).

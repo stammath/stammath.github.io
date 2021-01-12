@@ -11,9 +11,6 @@ excerpt_separator: <!--more-->
  <!--more-->
 
 
-﻿[https://www.youtube.com/watch?v=91R5RIayjdM&t=731s](https://www.youtube.com/watch?v=91R5RIayjdM&t=731s)
-**English Translation Of Sri Shankaracharya's Sanskrit Commentary By Swami Gambirananda**
-**Hindi Commentary By Harikrishnadas Goenka**
 
 **भद्रं कर्णेभिः श्रृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः। 
 स्थिरैरङ्गैस्तुष्टुवा्ँसस्तनूभिर्व्यशेम देवहितं यदायुः।
@@ -105,6 +102,13 @@ excerpt_separator: <!--more-->
 
 
 
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/107bPpD2_mmCGOZ9mZQCazosCtvxFAhgD/view?usp=sharing
+
+## Further Reading
 
 
 

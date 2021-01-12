@@ -53,7 +53,9 @@ excerpt_separator: <!--more-->
 
 ॥ इति श्री कृष्णयजुर्वेदीय तैत्तिरीय संहितायां चतुर्थकाण्डेसप्तमः प्रपाठकः ॥﻿
 
-http://aumamen.com/stotra/sri-rudram-namakam-chamakam-lyrics-sanskrit-english-meaning
-[https://www.youtube.com/watch?v=RFwTeG_WX1M](https://www.youtube.com/watch?v=RFwTeG_WX1M)
 
-> Written with [StackEdit](https://stackedit.io/).
+## MP3
+
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1-orF-asRb8hDYmgvQjTaCp3-EZcX4IrY/view?usp=sharing
