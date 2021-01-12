@@ -12,10 +12,6 @@ excerpt_separator: <!--more-->
 
 
 ﻿## **॥ महाकालभैरवाष्टकम् अथवा तीक्ष्णदंष्ट्रकालभैरवाष्टकम् ॥**
-[https://www.youtube.com/watch?v=a5oGpRzlPO0](https://www.youtube.com/watch?v=a5oGpRzlPO0)
-
-
-Editing it
 
 
 **यं यं यं यक्षरूपं दशदिशिविदितं भूमिकम्पायमानं**  
@@ -66,38 +62,6 @@ Editing it
 **नमः कालिकाप्रेमलोलं करालं**  
 **नमो भैरवं काशिकाक्षेत्रपालम् ॥**
 
-  
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-[https://www.youtube.com/watch?v=a5oGpRzlPO0](https://www.youtube.com/watch?v=a5oGpRzlPO0)
-  
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-
 ## Meaning of Maha Kala Bhairava Stotram
 
 Note : All the Yam, lam, ram, sham, aim, aam, vam, ham, tam, pam is the ‘vija’ mantra related to the chakras of our body, chakras are well connected with the nerve system (nadis) of our body. Vija mantra help Chakras to awake from the vibration of Vija mantra utterance.
@@ -122,5 +86,9 @@ RaM RaM RaM rakta varnam, katikatitatanum Teekshna Danstra Karalam!
 
 => Ram is the vija mantra related to solar plexus 3rd chakra, rakta varnam means who have reddish complexion which means he is in active mode, red may symbol here anger, fierce; (but Kaal Bhairav is known as black complexion God by the worshippers, Katikatitatanum teekshna Danstra Karalam means showing his sharp teeths like the Wild Tiger does.(here wild tiger is just my example to clear how does teeth action occur)
 
+## MP3
 
+[Google Drive Link][Google Drive Link]
+
+[Google Drive Link]: https://drive.google.com/file/d/1KvwS3cKsc6gzGGJViei_-Hwn56Wx2HwH/view?usp=sharing
 > Written with [StackEdit](https://stackedit.io/).
