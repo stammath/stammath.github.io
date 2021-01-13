@@ -3,7 +3,7 @@ layout: post
 title:  शिव पञ्चाक्षर स्तोत्रम्-Shiva Panchakshara Stotram.
 date: 2020-04-11 00:00:00 -0000
 image: SS4.jpg
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

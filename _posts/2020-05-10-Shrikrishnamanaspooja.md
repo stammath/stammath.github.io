@@ -4,7 +4,7 @@ title: श्रीकृष्णमानसपूजास्तोत्र�
 date: 2020-05-10 00:00:00 -0000
 image: 500013700555_18541.jpg
 
-tags: [Music-Sanskrit]
+tags: [Shri-Hari]
 excerpt_separator: <!--more-->
 ---
 

@@ -4,7 +4,7 @@ title: Guru Paduka Stotram
 date: 2020-05-10 00:00:00 -0000
 image:  	500018100038_7276.jpg
 
-tags: [Music-Sanskrit]
+tags: [Others]
 excerpt_separator: <!--more-->
 ---
 

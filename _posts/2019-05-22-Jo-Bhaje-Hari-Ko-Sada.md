@@ -4,7 +4,7 @@ title: Jo Bhaje Hari Ko Sada- Pandit Bhimsen Joshi
 date: 2019-05-22 00:00:00 -0000
 image: bhimsen-joshi.jpg
 
-tags: [Music-Other]
+tags: [Bhajans]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

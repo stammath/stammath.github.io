@@ -4,7 +4,7 @@ title: बाजे रे मुरलिया बाजे/ Baje re Muraliya 
 date: 2019-06-08 00:00:00 -0000
 image: Bhim-lata.jpg
 
-tags: [Music-Other]
+tags: [Bhajans]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

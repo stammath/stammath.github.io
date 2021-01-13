@@ -4,7 +4,7 @@ title: शिवरक्षास्तोत्रम् /Shiv Raksha Stotram
 date: 2019-10-29 00:00:00 -0000
 
 image: adiyogi.jpg
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 
 

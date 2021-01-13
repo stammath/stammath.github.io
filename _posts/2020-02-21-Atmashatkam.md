@@ -3,7 +3,7 @@ layout: post
 title: आत्मषट्कम्-Atmashatkam  
 date: 2020-02-21 00:00:00 -0000
 image: SS11.jpg
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

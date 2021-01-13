@@ -3,7 +3,7 @@ layout: post
 title: शिव अष्टकम्-Shivashtakam
 date: 2019-07-29 00:00:00 -0000
 image: SS6.jpg
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

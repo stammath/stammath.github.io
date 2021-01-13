@@ -4,7 +4,7 @@ title: श्री वैद्यनाथाष्टकम्-Shri Vaidyanat
 date: 2020-05-10 00:00:00 -0000
 image: 500012900494_20362.jpg
 
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 

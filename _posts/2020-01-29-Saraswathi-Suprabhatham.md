@@ -4,7 +4,7 @@ title: Saraswathi-Suprabhatham-श्रीवासरसरस्वतीस�
 
 date: 2020-01-29 00:00:00 -0000
 image: SARASWATI_1.jpg
-tags: [Music-Sanskrit]
+tags: [Shakti]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

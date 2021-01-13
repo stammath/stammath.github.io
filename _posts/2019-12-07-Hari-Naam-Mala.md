@@ -3,7 +3,7 @@ layout: post
 title: हरिनाममालास्तोत्रम्-Hari Naam Mala Stotram 
 date: 2019-12-07 00:00:00 -0000
 image: Sk6.jpg
-tags: [Music-Sanskrit]
+tags: [Shri-Hari]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

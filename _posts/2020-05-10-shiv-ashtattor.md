@@ -4,7 +4,7 @@ title: Shiva Ashtottara Shatanama Stotram-शिव अष्टोत्तर 
 date: 2020-05-10 00:00:00 -0000
 image: 500001300233_252091.jpg
 
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 

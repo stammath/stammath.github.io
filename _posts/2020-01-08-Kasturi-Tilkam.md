@@ -4,7 +4,7 @@ title: कस्तूरी तिलकम-Kasturi Tilakam
 date: 2020-01-08 00:00:00 -0000
 image: SK12.jpg
 
-tags: [Music-Sanskrit]
+tags: [Shri-Hari]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

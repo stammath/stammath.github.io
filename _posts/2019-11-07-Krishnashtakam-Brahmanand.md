@@ -3,7 +3,7 @@ layout: post
 title: श्रीकृष्णाष्टक ब्रह्मानन्दविरचितं -Shri Krishnashtakam 
 date: 2019-11-07 00:00:00 -0000
 image: SK8.jpg
-tags: [Music-Sanskrit]
+tags: [Shri-Hari]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

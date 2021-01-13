@@ -3,7 +3,7 @@ layout: post
 title: श्री अर्द्धनारीश्वर स्तोत्र-Ardhnarishwar Stotra
 date: 2020-01-01 00:00:00 -0000
 image: ss12.jpg
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

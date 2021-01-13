@@ -3,7 +3,7 @@ layout: post
 title: ॥ श्री महामृत्युंजय स्तॊत्रम्‌॥-Shri Mrityunjaya Stotram
 date: 2020-02-20 00:00:00 -0000
 image: SS5.jpg
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

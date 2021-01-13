@@ -3,7 +3,7 @@ layout: post
 title: श्रीरुद्राष्टकम्-Rudrashtakam
 date: 2020-03-15 00:00:00 -0000
 image: SS3.jpg
-tags: [Music-Sanskrit, Pandit-Jasraj]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

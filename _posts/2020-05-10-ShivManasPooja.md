@@ -4,7 +4,7 @@ title: Shiva Manasa Puja-शिवमानसपूजा
 date: 2020-05-10 00:00:00 -0000
 image: 500007500819_118066.jpg
 
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 

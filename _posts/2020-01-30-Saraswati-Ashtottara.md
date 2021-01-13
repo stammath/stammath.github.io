@@ -4,7 +4,7 @@ title: सरस्वती अष्टोत्तर- Saraswati Ashtottara
 date: 2020-01-30 00:00:00 -0000
 image: SARASWATI3.jpg
 
-tags: [Music-Sanskrit]
+tags: [Shakti]
 excerpt_separator: <!--more-->
 ---
 <!--more-->

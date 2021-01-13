@@ -4,7 +4,7 @@ title:  महाकालभैरवाष्टकम्-Mahakaal Bhairav Ash
 date: 2020-05-10 00:00:00 -0000
 image: 500001900327_253191.jpg
 
-tags: [Music-Sanskrit]
+tags: [Om-Namah-Shivay]
 excerpt_separator: <!--more-->
 ---
 

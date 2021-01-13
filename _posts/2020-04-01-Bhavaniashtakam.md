@@ -4,7 +4,7 @@ title: भवान्यष्टकम्-Bhavānyaṣṭakam
 date: 2020-04-01 00:00:00 -0000
 image: 500010300866_47753.jpg
 
-tags: [Music-Sanskrit]
+tags: [Shakti]
 excerpt_separator: <!--more-->
 ---
 
